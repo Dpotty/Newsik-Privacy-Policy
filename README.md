@@ -71,7 +71,7 @@ We may update this policy from time to time. We will notify you of significant c
 ---
 Contact
 
-For any questions about this privacy policy or your data, contact us at newsikapp@gmail.com
+For any questions about this privacy policy or your data, contact us at newsikappservice@gmail.com
 
 
 Terms of Service — Newsik
@@ -124,4 +124,4 @@ We may update these terms from time to time. Continued use of the app after chan
 ---
 Contact
 
-For any questions about these terms, contact us at newsikapp@gmail.com
+For any questions about these terms, contact us at newsikappservice@gmail.com
