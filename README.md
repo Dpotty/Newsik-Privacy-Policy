@@ -1,4 +1,4 @@
----
+
 Privacy Policy — Newsik
 Last updated: May 13, 2026
 
