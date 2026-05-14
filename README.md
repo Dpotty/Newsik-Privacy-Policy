@@ -74,6 +74,9 @@ Contact
 For any questions about this privacy policy or your data, contact us at newsikappservice@gmail.com
 
 
+---
+
+
 Terms of Service — Newsik
 Last updated: May 13, 2026
 
